@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./profile/logo.svg" width="200" alt="dracox-camelot">
 
 # dracox-camelot
 
